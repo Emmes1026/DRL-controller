@@ -12,6 +12,6 @@ The circuit is designed to detect when the car is running and activate the light
 # Schematic Notes
 Please note that the schematic image contains labels in Polish.
 
-s_d - DRL.
-kontrolka s_d - DRL Diode.
-swiatla_post - parking light.
+* s_d - DRL.
+* kontrolka s_d - DRL indicator.
+* swiatla_post - parking light.
